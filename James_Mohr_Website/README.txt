@@ -1,0 +1,1 @@
+Place your images in images folder named: profile.jpg, windflags.png, cnc.jpg, ffa.jpg
